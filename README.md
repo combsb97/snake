@@ -21,8 +21,8 @@ $ ./snake
 
 ## Authors
 
-Ben Combs @combsb97
-Liban Dirir
+* Ben Combs @combsb97
+* Liban Dirir
 
 ## Version History
 
