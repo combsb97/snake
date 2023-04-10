@@ -24,9 +24,6 @@ $ ./snake
 Ben Combs @combsb97
 Liban Dirir
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
 ## Version History
 
 * 0.1
